@@ -11,3 +11,13 @@ If you find the code useful in your research, please cite:
 
 
 @article{feng2021mosaic, title={Mosaic Convolution-Attention Network for Demosaicing Multispectral Filter Array Images}, author={Feng, Kai and Zhao, Yongqiang and Chan, Jonathan Cheung-Wai and Kong, Seong G and Zhang, Xun and Wang, Binglu}, journal={IEEE Transactions on Computational Imaging}, volume={7}, pages={864--878}, year={2021}, publisher={IEEE} }
+
+@article{feng2024unsupervised,
+  title={Unsupervised Spectral Demosaicing With Lightweight Spectral Attention Networks},
+  author={Feng, Kai and Zeng, Haijin and Zhao, Yongqiang and Kong, Seong G and Bu, Yuanyang},
+  journal={IEEE Transactions on Image Processing},
+  volume={33},
+  pages={1655--1669},
+  year={2024},
+  publisher={IEEE}
+}
